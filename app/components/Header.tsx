@@ -66,7 +66,7 @@ export default function Header() {
       </div>
 
       {/* Navigation */}
-      <nav className="bg-[#063674] h-[40px] text-white">
+      <nav className="bg-[#063674] h-[40px] text-white sticky">
         <div className="w-[90%] mx-auto px-4">
           {/* Mobile menu button */}
           <div className="md:hidden flex justify-between items-center py-3">
